@@ -8,7 +8,6 @@ We recommand using the pre-commit, more information on [pre-commit](https://pre-
 ```
 pre-commit install
 pre-commit run --all-file
-
 ```
 
 In this project, requirements before commits are:
